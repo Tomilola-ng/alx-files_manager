@@ -1,3 +1,4 @@
+/* eslint-disable no-return-await */
 import { createClient } from 'redis';
 
 class RedisClient {
